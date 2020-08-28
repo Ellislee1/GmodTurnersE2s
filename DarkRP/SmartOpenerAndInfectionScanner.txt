@@ -10,7 +10,7 @@
 # Props can be added as both smart doors and infection scanners or just one type
 # More than 10 players can be added but past 10 they will not show up
 
-# Chat ommands (Note - commands do not include the brackets):
+# Chat commands (Note - commands do not include the brackets):
 # Add player: !ap PLAYER
 # Remove player: !rp PLAYER
 # Add entity as door/scanner: !ad scanner door
