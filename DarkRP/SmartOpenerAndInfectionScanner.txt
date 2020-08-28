@@ -22,7 +22,7 @@
 # Notifcations when party members become infected
 # Support for removed props
 # Ability to change variables via chat commands
-# Ability to add player you're looking at
+# Ability to add a player you're looking at
 # Ability to add whole party at once
 
 #----------------------------------------------Reset All-----------------------------------------
